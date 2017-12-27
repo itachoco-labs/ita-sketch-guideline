@@ -1,9 +1,9 @@
 # itachoco sketch guideline
 
-1. [Naming Rules](#naming-rules)
-1. [Layers](#layers)
-1. [Symbols](#symbols)
-1. [Export](#export)
+1. [Naming Rules](#1-naming-rules)
+1. [Layers](#2-layers)
+1. [Symbols](#3-symbols)
+1. [Export](#4-export)
 
 ## 1. Naming Rules
 
@@ -71,8 +71,7 @@ Artboard直下とSymbol配下の重なり順は見た目に準じる。（上に
 
 ## 3. Symbols
 
-適切な粒度でスラッシュ区切りとハイフン区切りのルールを決める（プロジェクトにあわせよう）  
-ちょーーー大規模だったらスラッシュが多くなりそう。  
+適切な粒度でスラッシュ区切りとハイフン区切りのルールを決める（プロジェクトにあわせよう）
 ネストし過ぎにならないように注意。
 
 ### Element Name
@@ -84,6 +83,8 @@ Artboard直下とSymbol配下の重なり順は見た目に準じる。（上に
 - Icon
 - Label
 - Form
+
+※ OS標準UIはソート順で一番上にくるように `*` をつける
 
 ```
 ex)
